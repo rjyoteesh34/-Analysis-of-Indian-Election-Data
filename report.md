@@ -1,4 +1,4 @@
-# Rixi Lab - Final Project: Analysis of Indian Election Data
+# Analysis of Indian Election Data
 Generated project contents and sample analysis.
 
 ## Summary
