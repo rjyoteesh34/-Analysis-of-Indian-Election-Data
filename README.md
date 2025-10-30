@@ -1,0 +1,4 @@
+# Rixi Lab - Indian Election Analysis Project\n\nThis project was generated automatically and includes:\n\n- `data/` : copies of the uploaded CSV files (vidhan & lok sabha).\n- `figures/` : generated plots (PNG)\n- `scripts/analysis.py` : a lightweight starter script\n- `notebook/quick_analysis.py` : a notebook-style quick-run script\n- `report.md` : a markdown report summarizing findings and containing the figures\n\n## How to run\n\n1. Install the required packages (see `requirements.txt`).\n\n```
+pip install -r requirements.txt
+```
+\n2. Run the scripts or open the notebook scripts in JupyterLab / VS Code.\n\n3. View the generated figures in the `figures/` folder and read `report.md`.\n\n

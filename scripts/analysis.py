@@ -1,0 +1,1 @@
+# Analysis script for Rixi Lab Election Project\n# Generated on 2025-10-30T11:10:12.761461 UTC\nimport pandas as pd\nprint('This is a lightweight analysis runner. For full interactive exploration, open the notebook.')\n

@@ -1,0 +1,1 @@
+# Notebook-style quick analysis (Python script)\nimport pandas as pd\nimport os\nprint('Files in data folder:')\nprint(os.listdir('../data'))\n
